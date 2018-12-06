@@ -1,0 +1,11 @@
+insert into CLASS2_PATIENT values ('P141', '101', curdate());
+insert into CLASS2_PATIENT values ('P142', '103', curdate());
+insert into CLASS2_PATIENT values ('P143', '104', curdate());
+insert into CLASS2_PATIENT values ('P144', '102', curdate());
+insert into CLASS2_PATIENT values ('P145', '103', curdate());
+insert into CLASS2_PATIENT values ('P146', '103', curdate());
+insert into CLASS2_PATIENT values ('P147', '103', curdate());
+insert into CLASS2_PATIENT values ('P148', '104', curdate());
+insert into CLASS2_PATIENT values ('P149', '102', curdate());
+insert into CLASS2_PATIENT values ('P150', '103', curdate());
+commit;
