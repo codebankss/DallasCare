@@ -7,4 +7,4 @@
   2) Ayan Paul @mrayanpaul90 
   3) Jiten @jinx05 
   4) Poonam Gillurkar @poonamgillurkar
-* [Project Report](https://github.com/likarajo/DallasCare/7%20Project%20Report.pdf)
+* [Project Report](https://likarajo.github.io/DallasCare/Archive/report.pdf)
